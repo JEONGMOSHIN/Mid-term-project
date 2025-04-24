@@ -1,6 +1,5 @@
 # Mid-term-project
 
-README
  
  ## **AI STUDY MATE**
 
